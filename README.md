@@ -37,4 +37,4 @@ None!
 
 * Tell your friends to try the mod.
 * Leave a review on the Factorio Mod Portal if you enjoyed it.
-* I don't make these for money, but if you'd like to support me, here's my Venmo: https://account.venmo.com/u/Twiggy9858
+* I don't make these for money, but if you'd like to support me, here's my [Venmo](https://account.venmo.com/u/Twiggy9858).
